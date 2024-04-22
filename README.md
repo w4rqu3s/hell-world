@@ -1,1 +1,1 @@
-Repositório para testar as funcionalidades do github.
+Estudante da IFPR, aprendendo a ser um desenvolvedor Full-Stack com C, Java, HTML, CSS, JavaScript e dart com o FLutter. Também estou aprendendo a trabalhar com Python de forma mais independente. Além de desenvolver sistemas e aplicativos, sou interessado em áreas como machine learning, análise de dados e hacking ético.
