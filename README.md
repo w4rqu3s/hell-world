@@ -10,7 +10,7 @@ Estou estundando no *Instituto Federal do Paraná*, realizando o curso de **Téc
 
 ## (🛰) - Tecnologias
 
-Programo em **C** e **Java**, mas estou aprendendo sobre **Dart**, **Python** e **Banco de Dados/SQL** em geral, e  e irei estudar futuramente sobre **HTML**, **CSS** e **JavaScript**.
+Programo em **C** e **Java**, mas estou aprendendo sobre **Dart**, **Python** e **Banco de Dados/SQL** em geral, e irei estudar futuramente sobre **HTML**, **CSS** e **JavaScript**.
 
 ## (❓) - Interesses
 
