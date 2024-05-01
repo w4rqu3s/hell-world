@@ -2,7 +2,7 @@
 
 ## (🎙) - Apresentação
 
-Me chamo Victor Pecine Marques, tenho 16 anos e estou estudando programação. Pretendo me tornar um desenvolver FullStack, desenvolvendo sites, aplicativos e sistemas em geral. 
+Me chamo Victor Pecine Marques, nasci em 2008 e estou estudando programação. Pretendo me tornar um desenvolver FullStack, desenvolvendo sites, aplicativos e sistemas em geral. 
 
 ## (🎓) - Formação
 
